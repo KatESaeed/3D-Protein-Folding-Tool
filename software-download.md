@@ -1,5 +1,5 @@
 ---
-id: getting-started
+id: software-download
 ---
 
 # Software Download
